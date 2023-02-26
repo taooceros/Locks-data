@@ -1,5 +1,5 @@
 lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Spin Lock,0,0,0,0,0.000,2
-Spin Lock,1,1,0,0,0.000,2
-Spin Lock,2,2,0,0,0.000,2
-Spin Lock,3,3,0,0,0.000,2
+Spin Lock,0,0,76435426,2046298,2066.298,2
+Spin Lock,1,1,104,1,0.003,2
+Spin Lock,2,2,30,1,0.001,2
+Spin Lock,3,3,104,1,0.003,2

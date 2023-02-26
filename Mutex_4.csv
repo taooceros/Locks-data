@@ -1,5 +1,5 @@
 lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Mutex,0,0,0,0,0.000,2
-Mutex,1,1,0,0,0.000,2
-Mutex,2,2,0,0,0.000,2
-Mutex,3,3,0,0,0.000,2
+Mutex,0,0,473981,13879,13.999,2
+Mutex,1,1,66807632,597699,1800.911,2
+Mutex,2,2,528683,15468,15.606,2
+Mutex,3,3,4606762,41615,125.351,2
