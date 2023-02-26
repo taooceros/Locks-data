@@ -1,9 +1,9 @@
 lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Flat Combining (fair),0,0,458678783,12353,12353.083,120
-Flat Combining (fair),1,1,655821163,5886,17658.054,120
-Flat Combining (fair),2,2,599163713,16133,16133.106,120
-Flat Combining (fair),3,3,655834863,5886,17658.050,120
-Flat Combining (fair),4,4,634089935,17075,17075.110,120
-Flat Combining (fair),5,5,655802514,5886,17658.055,120
-Flat Combining (fair),6,6,493611841,13294,13294.092,120
-Flat Combining (fair),7,7,655504009,5886,17658.054,120
+Flat Combining (fair),0,0,6115616,165197,166.428,2
+Flat Combining (fair),1,1,8939153,81370,245.055,2
+Flat Combining (fair),2,2,5891627,167128,168.351,2
+Flat Combining (fair),3,3,8992527,81202,244.608,2
+Flat Combining (fair),4,4,6046736,164613,165.842,2
+Flat Combining (fair),5,5,9025458,81200,244.624,2
+Flat Combining (fair),6,6,5947936,160015,161.263,2
+Flat Combining (fair),7,7,8737772,81463,245.268,2

@@ -1,0 +1,5 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+Spin Lock,0,0,0,0,0.000,2
+Spin Lock,1,1,0,0,0.000,2
+Spin Lock,2,2,0,0,0.000,2
+Spin Lock,3,3,0,0,0.000,2

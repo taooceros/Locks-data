@@ -1,0 +1,9 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+Mutex,0,0,0,0,0.000,2
+Mutex,1,1,0,0,0.000,2
+Mutex,2,2,0,0,0.000,2
+Mutex,3,3,0,0,0.000,2
+Mutex,4,4,0,0,0.000,2
+Mutex,5,5,0,0,0.000,2
+Mutex,6,6,0,0,0.000,2
+Mutex,7,7,0,0,0.000,2
