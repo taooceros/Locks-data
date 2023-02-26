@@ -1,0 +1,9 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+Ticket Lock,0,0,3501579,112972,113.369,2
+Ticket Lock,1,1,11848657,112950,339.265,2
+Ticket Lock,2,2,3516347,112943,113.739,2
+Ticket Lock,3,3,11896474,112938,339.821,2
+Ticket Lock,4,4,3626086,112936,113.613,2
+Ticket Lock,5,5,11872857,112932,339.485,2
+Ticket Lock,6,6,3465536,112931,114.467,2
+Ticket Lock,7,7,12005071,112930,339.684,2
