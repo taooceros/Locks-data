@@ -1,3 +1,0 @@
-lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Mutex,0,0,21460181,581143,587.072,2
-Mutex,1,1,47729925,428889,1292.317,2

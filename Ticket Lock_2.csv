@@ -1,3 +1,0 @@
-lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Ticket Lock,0,0,15044739,489934,496.656,2
-Ticket Lock,1,1,51397037,489908,1471.127,2
