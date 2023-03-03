@@ -1,0 +1,9 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+Remote Core Locking,0,0,12403019,344228,349.521,5
+Remote Core Locking,1,1,38359552,344215,1038.588,5
+Remote Core Locking,2,2,12832747,344207,347.332,5
+Remote Core Locking,3,3,38350259,344191,1038.887,5
+Remote Core Locking,4,4,12819057,344188,347.488,5
+Remote Core Locking,5,5,38356811,344178,1038.333,5
+Remote Core Locking,6,6,12625837,344179,349.671,5
+Remote Core Locking,7,0,38337799,344056,1038.511,5
