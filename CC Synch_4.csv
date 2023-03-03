@@ -1,0 +1,5 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+CC Synch,0,0,26506653,712541,719.155,5
+CC Synch,1,1,76011744,682572,2059.782,5
+CC Synch,2,2,22922578,666701,672.531,5
+CC Synch,3,3,78968539,708830,2138.709,5
