@@ -1,5 +1,5 @@
 lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
-Flat Combining,0,0,25726944,689566,694.974,5
-Flat Combining,1,1,77000026,689491,2080.491,5
-Flat Combining,2,2,24141134,689457,695.749,5
-Flat Combining,3,3,76999000,689474,2080.647,5
+Flat Combining,0,0,9208474,267261,270.790,2
+Flat Combining,1,1,25264488,267226,804.866,2
+Flat Combining,2,2,7917848,267200,275.668,2
+Flat Combining,3,3,26714279,267198,812.418,2

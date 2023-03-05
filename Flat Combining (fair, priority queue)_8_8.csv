@@ -1,0 +1,9 @@
+lock type,id,cpuid,loop,lock_acquires,lock_hold(ms),duration
+Flat Combining (fair, priority queue),0,0,4637250,125524,126.474,2
+Flat Combining (fair, priority queue),1,1,13874218,125486,378.140,2
+Flat Combining (fair, priority queue),2,2,4421830,125470,126.389,2
+Flat Combining (fair, priority queue),3,3,13777397,125466,377.979,2
+Flat Combining (fair, priority queue),4,4,4279180,115933,116.911,2
+Flat Combining (fair, priority queue),5,5,13879011,125461,378.114,2
+Flat Combining (fair, priority queue),6,6,3390843,91881,92.679,2
+Flat Combining (fair, priority queue),7,7,13879117,125450,378.056,2
